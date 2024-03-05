@@ -1,0 +1,21 @@
+{
+  "name": "test-prompter",
+  "version": "1.0.0",
+  "description": "playing with the chat gpt api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Jan Zaion",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.4"
+  }
+}
