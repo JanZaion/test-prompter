@@ -1,4 +1,4 @@
 node_modules
 *.xmp
 /Ableton Folder Info
-*.env
+.env
